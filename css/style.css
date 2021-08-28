@@ -142,3 +142,15 @@ footer h2 a{
 .formfooter p{
     font-size: 20px;
 }
+
+@media screen and (max-width: 375px) {
+    #menu-h {
+        float: left;
+        margin: auto;
+        text-align: center;
+        font-size: 10px;
+    }
+    .formQS {
+        float:none;
+        margin: auto;  }
+    }
