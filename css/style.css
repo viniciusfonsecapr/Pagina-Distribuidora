@@ -130,11 +130,11 @@ footer h2 a{
     display: inline-block;
     float: right;
     background-color: #FFFFFFBB;
-    padding: 192px;
+    padding: 208px;
     width: 50%;
 }
 .formfooter h2 p{
-    text-overflow: clip;
+    
     padding: 0;
     text-align: left;
 
